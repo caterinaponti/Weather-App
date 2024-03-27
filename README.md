@@ -7,6 +7,7 @@ Project Objectives:
 - Making the dataset clear to viewers with data visualization. Presenting the data in a way that is easily comprehensible and visually compelling. 
 
 API: Open Weather Map: Weather Service https://openweathermap.org/
+
 OpenWeather is a comprehensive weather API that offers a wide range of weather data, including current conditions, recasts, historical data, and more. It provides various weather parameters, such as temperature, humidity, wind speed, and precipitation. 
 
 Features: 
