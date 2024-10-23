@@ -12,7 +12,7 @@ OpenWeather is a comprehensive weather API that offers a wide range of weather d
 
 Features: 
 - Utilize OpenWeather API to retrieve diverse weather parameters(temperature, humidity, wind speed, precipitation)
-- Use HTML, CSS, and Python to structure and style the web application. 
+- Use `HTML`, `CSS`, and `Python` to structure and style the web application. 
 - Ask the user for input. This could involve allowing users to select specific locations, time frames, or weather parameters they are interested in. 
 - Use of libraries like `matplotlib` or `plotly` to create graphs and maps illustrating weather patterns. 
 - Use graphical context in maps to illustrate variations effectively. Ensure the user interface is intuitive.  
