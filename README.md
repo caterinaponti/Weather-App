@@ -4,7 +4,7 @@ https://quilled-gray-lungfish.glitch.me/
 
 This project is a Flask web application that provides real-time weather data and visual insights. Users can check the current weather, forecast details, and explore U.S. capital cities on an interactive map. The application leverages `OpenWeatherMap API` and visualizes data using `Folium`, `Matplotlib`, and `Geop`y.
 
-API: Open Weather Map: Weather Service https://openweathermap.org/
+`API: Open Weather Map`: Weather Service https://openweathermap.org/
 
 OpenWeather is a comprehensive weather API that offers a wide range of weather data, including current conditions, recasts, historical data, and more. It provides various weather parameters, such as temperature, humidity, wind speed, and precipitation. 
 
